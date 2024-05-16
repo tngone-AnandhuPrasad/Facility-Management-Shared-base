@@ -1,0 +1,13 @@
+C:\Projects\Locket\locket-shared-lib\bin\release\net8.0\locket-shared-lib.deps.json
+C:\Projects\Locket\locket-shared-lib\bin\release\net8.0\locket-shared-lib.dll
+C:\Projects\Locket\locket-shared-lib\bin\release\net8.0\locket-shared-lib.pdb
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\locket-shared-lib.csproj.AssemblyReference.cache
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\locket-shared-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\locket-shared-lib.AssemblyInfoInputs.cache
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\locket-shared-lib.AssemblyInfo.cs
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\locket-shared-lib.csproj.CoreCompileInputs.cache
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\locket-shared-lib.sourcelink.json
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\locket-shared-lib.dll
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\refint\locket-shared-lib.dll
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\locket-shared-lib.pdb
+C:\Projects\Locket\locket-shared-lib\obj\release\net8.0\ref\locket-shared-lib.dll

@@ -1,0 +1,12 @@
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\bin\Debug\net8.0\shared-lib.deps.json
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\bin\Debug\net8.0\shared-lib.dll
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\bin\Debug\net8.0\shared-lib.pdb
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\shared-lib.csproj.AssemblyReference.cache
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\shared-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\shared-lib.AssemblyInfoInputs.cache
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\shared-lib.AssemblyInfo.cs
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\shared-lib.csproj.CoreCompileInputs.cache
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\shared-lib.dll
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\refint\shared-lib.dll
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\shared-lib.pdb
+C:\Users\AnandhuPrasad\Documents\Facility-Management\Shared-lib\obj\Debug\net8.0\ref\shared-lib.dll

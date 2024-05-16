@@ -1,0 +1,1 @@
+# locket-shared-lib
